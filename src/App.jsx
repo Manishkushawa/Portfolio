@@ -13,11 +13,11 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Home></Home>
-      {/* <Services></Services>
+      <Services></Services>
       <About></About>
       <Portfolio></Portfolio>
       <Contact></Contact>
-      <Footer></Footer> */}
+      <Footer></Footer>
     </div>
   )
 }
