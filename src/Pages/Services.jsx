@@ -30,8 +30,8 @@ function Services() {
               onMouseLeave={leaveHandler}
               onMouseOver={onMouseHover}
               className='about-skill border-1 border-white w-[50%] max-sm:w-[100%] h-[55vh] px-6 py-6 md:rounded-lg bg-gray-900 max-sm:rounded-xl hover:bg-amber-200'>
-              <div className=' w-[15%] h-[8vh] rounded-full flex justify-center items-center '>
-                <Icon className='text-white text-5xl ' icon="simple-icons:nextui" />
+              <div className=' '>
+                <Icon width={20} className=' ' icon="simple-icons:nextui" />
               </div>
               <h2 className={`text-3xl py-4 font-medium  max-sm:py-1 ${isHover ? "text-black" : "text-gray-400"}`}>Ui/Ux degsiner</h2>
               <p className={`py-4  max-sm:py-1 ${isHover ? "text-gray-800" : "text-gray-400"}`}>I design intuitive, user-friendly, and visually engaging interfaces that
