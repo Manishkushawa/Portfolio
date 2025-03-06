@@ -15,7 +15,7 @@ function Home() {
                 </div>
                 <div className='gap-4 mt-10 max-sm:mt-2 max-sm:flex flex-col items-center'>
                     <button className=' px-2 pb-2 rounded-lg bg-blue-500 text-white hover:bg-gray-500 max-sm:bg-amber-200 max-sm:text-gray-800 max-sm:text-xl max-sm:w-[50%]' >View My Profile</button>
-                    <button className=' px-2 mx-4 pb-2 rounded md:rounded-lg bg-blue-500 text-white  max-sm:bg-amber-200 max-sm:text-gray-800 max-sm:text-xl  max-sm:w-[30%] max-sm:flex max-sm:justify-center items-center'>Hire Me</button>
+                    <button className=' px-2 mx-4 pb-2 rounded md:rounded-lg bg-blue-500 text-white  hover:bg-gray-500 max-sm:bg-amber-200 max-sm:text-gray-800 max-sm:text-xl  max-sm:w-[30%] max-sm:flex max-sm:justify-center items-center'>Hire Me</button>
                 </div>
                 </div>
 
