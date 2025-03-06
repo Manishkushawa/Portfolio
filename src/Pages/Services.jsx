@@ -22,7 +22,7 @@ function Services() {
       <div className='w-[100%] h-[70vh] bg-gray-800 max-sm:bg-gray-800 max-sm:h-[172vh]'>
         <div className='flex justify-between px-24 h-[10vh] max-sm:px-4 max-sm:py-2 max-sm:h-[8vh] max-sm:bg-gray-800 max-sm:pt-5'>
           <div className=''> <h5 className='text-4xl mt-6 font-semibold text-white max-sm:text-xl max-sm:mt-1 '>Serviser I provide</h5> </div>
-          <div className=' '> <button className='bg-gray-800 px-6 py-3 mt-6  rounded-4xl text-white border border-white max-sm:mt-0 max-sm:px-2 max-sm:py-1 max-sm:hover:bg-amber-500'>View all Services</button></div>
+          <div className=' '> <button className='bg-gray-800 px-6 py-3 mt-6  rounded-4xl text-white border border-white max-sm:mt-0 max-sm:px-2 max-sm:py-1 max-sm:hover:bg-amber-5-00'>View all Services</button></div>
         </div>
         <div className=' h-[60vh]'>
           <div className=' w-[100%] h-[60vh] px-24 flex items-center gap-4 max-sm:gap-4 max-sm:flex-col max-sm:px-4 '>
