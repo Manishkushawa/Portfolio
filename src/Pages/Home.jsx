@@ -14,8 +14,8 @@ function Home() {
                         development. Let’s create something amazing together</p>
                 </div>
                 <div className='gap-4 mt-10 max-sm:mt-2 max-sm:flex flex-col items-center'>
-                    <button className=' px-2 pb-2 rounded-lg bg-blue-500 text-white hover:bg-gray-500 max-sm:bg-amber-200 max-sm:text-gray-800 max-sm:text-xl max-sm:w-[50%]' >View My Profile</button>
-                    <button className=' px-2 mx-4 pb-2 rounded md:rounded-lg bg-blue-500 text-white  hover:bg-gray-500 max-sm:bg-amber-200 max-sm:text-gray-800 max-sm:text-xl  max-sm:w-[30%] max-sm:flex max-sm:justify-center items-center'>Hire Me</button>
+                    <button className=' px-4 py-2 text-white border-1 border-white rounded-4xl hover:bg-amber-200 hover:text-gray-800 max-sm:bg-amber-200 max-sm:text-gray-800 max-sm:text-xl max-sm:w-[50%] text-base' >View My Profile</button>
+                    <button className=' px-4 py-2 mx-4 rounded-full border-1  border-white text-white hover:bg-amber-200 hover:text-gray-800 max-sm:bg-amber-200 max-sm:text-gray-800 max-sm:text-xl   max-sm:w-[30%] max-sm:flex max-sm:justify-center items-center  text-base'>Hire Me</button>
                 </div>
                 </div>
 
